@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Generated data / outputs
+demo_data/
+demo_output/
+synthetic_data/
+output/
+*.npz
+*.h5
